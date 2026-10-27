@@ -2,8 +2,8 @@
   "pair": "USD/TWD",
   "buy": null,
   "sell": null,
-  "mid": 32.5961,
-  "posted": "2026/10/26 08:02",
+  "mid": 32.5924,
+  "posted": "2026/10/27 08:02",
   "source": "備援：ExchangeRate-API（臺灣銀行暫時無法取得）",
-  "fetched": "2026/10/26 19:54"
+  "fetched": "2026/10/27 10:12"
 }
